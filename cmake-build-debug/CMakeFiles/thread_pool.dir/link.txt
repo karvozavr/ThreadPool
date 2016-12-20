@@ -1,0 +1,1 @@
+/usr/bin/cc   -g -pthread -std=gnu99 -Wall -Wextra -g   CMakeFiles/thread_pool.dir/main.c.o CMakeFiles/thread_pool.dir/computation.c.o CMakeFiles/thread_pool.dir/thread_pool.c.o CMakeFiles/thread_pool.dir/wsqueue.c.o CMakeFiles/thread_pool.dir/squeue.c.o CMakeFiles/thread_pool.dir/queue.c.o CMakeFiles/thread_pool.dir/linkedlist.c.o  -o thread_pool 
